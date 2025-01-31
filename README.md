@@ -18,5 +18,5 @@
 
 ### Resultados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./VirtualBoxVM_lKKUroYfML.png "Optional title")
 
